@@ -1,5 +1,5 @@
-"Paciente,""Presion Arterial"",""Urea en Sangre"",""Gota"",""Hipotiroidismo"",""Tratamiento"""
-"1,""Alta"",""Alta"",TRUE,FALSE,FALSE"
+"Paciente,"Presion Arterial","Urea en Sangre","Gota","Hipotiroidismo","Tratamiento"
+1,"Alta","Alta",TRUE,FALSE,FALSE
 2,Alta,Alta,TRUE,TRUE,FALSE
 3,Normal,Alta,TRUE,FALSE,TRUE
 4,Baja,Normal,TRUE,FALSE,TRUE
